@@ -28,11 +28,8 @@ color:
   primary: D59BF6 # Replace with your main color
   primary-rgb: "213,155,246" # RGB equivalent of D59BF6
   secondary: 2c3e50 # Optional: pick a complementary color or another hex value
-  secondary-dark: 233140 # Optional: darker shade of the secondary color
- # primary: 18bc9c #80B3FF
- # primary-rgb: "24,288,156" #"128,179,255"
- # secondary: 2c3e50 #FD6E8A
- # secondary-dark: 233140 #A2122F
+  secondary-dark: 330A4B # Optional: darker shade of the secondary color
+
 
 # Footer settings
 footer:
