@@ -27,7 +27,7 @@ disqus_shortname: myshortname
 color:
   primary: D59BF6 # Replace with your main color
   primary-rgb: "213,155,246" # RGB equivalent of D59BF6
-  secondary: 2c3e50 # Optional: pick a complementary color or another hex value
+  secondary: 60197D # Optional: pick a complementary color or another hex value
   secondary-dark: 330A4B # Optional: darker shade of the secondary color
 
 
