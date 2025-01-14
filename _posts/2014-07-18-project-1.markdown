@@ -6,6 +6,20 @@ img: papers.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Papers
+description: >
+  In this section, you will find the different papers I've been working on:
+
+  **First Author**:
+  1. *A Machine Learning Method to Evaluate and Improve Sound Effects Synthesis Model Design*  
+     Y. Zong, N. Garcia-Sihuay, J. Reiss - Audio Engineering Society Conference: AES 2024  
+  2. *[Your second paper title goes here]*  
+  3. *[Your third paper title goes here]*  
+
+  **Second Author**:
+  4. *Discerning Real from Synthetic: Analysis and Perceptual Evaluation of Sound Effects*  
+     N. Garcia-Sihuay, Y. Zong, J. Reiss - Audio Engineering Society Conference: AES 2024  
+
+  Are you too interested in creating tools for sound designers?  
+  Find out more [here](https://scholar.google.com/citations?user=RqIkG4oAAAAJ&hl=es&authuser=1).
 ---
