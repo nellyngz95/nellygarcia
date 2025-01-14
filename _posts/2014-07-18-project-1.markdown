@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 
 date: 2014-07-18
 img: papers.png
 alt: image-alt
@@ -13,7 +13,9 @@ description: >
   **First Author**:
   1. *A Machine Learning Method to Evaluate and Improve Sound Effects Synthesis Model Design*  
      Y. Zong, N. Garcia-Sihuay, J. Reiss - Audio Engineering Society Conference: AES 2024  
+
   2. *[Your second paper title goes here]*  
+
   3. *[Your third paper title goes here]*  
 
   **Second Author**:
@@ -23,3 +25,4 @@ description: >
   Are you too interested in creating tools for sound designers?  
   Find out more [here](https://scholar.google.com/citations?user=RqIkG4oAAAAJ&hl=es&authuser=1).
 ---
+
