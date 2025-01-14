@@ -1,3 +1,4 @@
+
 ---
 layout: default
 modal-id: 3
@@ -6,6 +7,7 @@ img: portfolio.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Portfolio
+description: Welcome to my portfolio! Sharing stories is one of my passions. Whether it’s crafting immersive soundscapes, designing memorable effects, or enhancing a project’s emotional depth, I combine creativity with technical expertise to deliver impactful results. I’m always excited to connect with like-minded creators. Feel free to explore <a href="https://www.youtube.com/@nellyngz" target="_blank">my projects</a> and reach out—I’d love to discuss how we can create something amazing together!
 ---
+
