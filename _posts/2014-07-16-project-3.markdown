@@ -6,8 +6,6 @@ image:
   src: portfolio.png
   alt: image-alt
 project:
-  date: Now
-  client: Start Bootstrap
   category: Portfolio
 description: >
   Welcome to my portfolio! Sharing stories is one of my passions. 
