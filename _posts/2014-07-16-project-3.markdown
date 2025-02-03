@@ -8,15 +8,15 @@ project-date: 2025
 client: Personal Portfolio
 category: Portfolio
 description: >
-  Welcome to my portfolio! Sharing stories is one of my passions. 
-  Whether it’s crafting immersive soundscapes, designing memorable effects, 
-  or enhancing a project’s emotional depth, I combine creativity with 
-  technical expertise to deliver impactful results. I’m always excited to 
-  connect with like-minded creators. 
+  Welcome to my portfolio! Sharing stories is one of my passions.  
+  Whether it’s crafting immersive soundscapes, designing memorable effects,  
+  or enhancing a project’s emotional depth, I combine creativity with  
+  technical expertise to deliver impactful results. I’m always excited to  
+  connect with like-minded creators.  
 
-  Feel free to explore 
-  <a href="https://www.youtube.com/@nellyngz" target="_blank">my projects</a> 
-  and reach out—I’d love to discuss how we can create something amazing together!
+  Feel free to explore&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nellyngz" target="_blank">my projects</a>&nbsp;&nbsp;
+  and reach out— I’d love to discuss how we can create something amazing together!
 
 ---
 
