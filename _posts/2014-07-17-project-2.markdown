@@ -8,16 +8,17 @@ project-date: April 2014
 client: Start Bootstrap
 category: Workshops and Talks
 description: >
-  In this section, you'll find the different workshops and challenges I've helped organize:
+  In this section, you'll find the different workshops and challenges I've helped organize:  
 
- <br>  
-
+  
   - **AI Tools for Sound Design: Emotional Music and Sound Effects in Visual Media**  
+
     [AES NY 2024](https://aesshow.com/skill-building-workshops)  
 
-  <br>  
-
+  
   - **Vocal Imitation Querying**  
+
     [AES AIMLA 2025](https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/)  
+
 ---
 
