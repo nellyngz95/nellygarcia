@@ -2,11 +2,9 @@
 layout: default
 modal-id: 3
 date: 2025-01-30
-image:
-  src: portfolio.png
-  alt: image-alt
-project:
-  category: Portfolio
+src: portfolio.png
+alt: image-alt
+category: Portfolio
 description: >
   Welcome to my portfolio! Sharing stories is one of my passions. 
   Whether it’s crafting immersive soundscapes, designing memorable effects, 
