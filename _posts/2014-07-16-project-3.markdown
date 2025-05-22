@@ -1,13 +1,13 @@
 ---
 layout: default
-  modal-id: 3
-  date: 2025-01-30
-  src: portfolio.png
-  alt: image-alt
-  project-date: 2025
-  client: Personal Portfolio
-  category: Portfolio
-  description: |
+modal-id: 3
+date: 2014-07-17
+src: portfolio.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Portfolio
+  description: 
     Curious to her more?  
     <a href="https://www.youtube.com/@nellyngz" target="_blank">Check out my work on YouTube</a>  
     and let’s connect to create something unforgettable.
