@@ -7,7 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Papers
-description: >
+description: |
   In this section, you will find the different papers I've been working on:
 
   **First Author**:
