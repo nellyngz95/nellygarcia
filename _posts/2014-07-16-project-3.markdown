@@ -2,21 +2,20 @@
 layout: default
 modal-id: 3
 date: 2025-01-30
-src: portfolio.jpg
-alt: image-alt
+src: Portfolio.png
+alt: Portfolio preview image
 project-date: 2025
 client: Personal Portfolio
 category: Portfolio
-description: >
-  Welcome to my portfolio! Sharing stories is one of my passions.  
-  Whether it’s crafting immersive soundscapes, designing memorable effects,  
-  or enhancing a project’s emotional depth, I combine creativity with  
-  technical expertise to deliver impactful results. I’m always excited to  
-  connect with like-minded creators.  
+description: |
+  Welcome to my creative space! I'm passionate about storytelling through sound, design, and emotion.  
+  Whether I'm building immersive soundscapes or enhancing a project's impact through thoughtful effects,  
+  I bring both artistry and technical precision to everything I do.  
+  
+  Curious to hear more?  
+  <a href="https://www.youtube.com/@nellyngz" target="_blank">Check out my work on YouTube</a>  
+  and let’s connect to create something unforgettable.
 
-  Feel free to explore&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@nellyngz" target="_blank">my projects</a>&nbsp;&nbsp;
-  and reach out— I’d love to discuss how we can create something amazing together!
 
 ---
 
