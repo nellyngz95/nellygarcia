@@ -8,7 +8,7 @@ layout: default
   client: Personal Portfolio
   category: Portfolio
   description: |
-    Curious to hear more?  
+    Curious to her more?  
     <a href="https://www.youtube.com/@nellyngz" target="_blank">Check out my work on YouTube</a>  
     and let’s connect to create something unforgettable.
 
