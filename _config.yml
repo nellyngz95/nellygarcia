@@ -1,17 +1,11 @@
 # Site settings
 title: Nelly s Homepage
 email: nellyvags@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
+url: https://github.com/nellyngz95
 description: "Research scientist specializing in sound synthesis and optimization of sound design"
-keywords: "your keywords, separated by commas"
 skills: "Audio Researcher - Sound Designer - Engineer in communications and electronics"
 meta_author: Garcia Nelly
 
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
@@ -33,10 +27,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: 
+  location: London UK
+  social: 
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -44,13 +38,15 @@ social:
     url: http://twitter.com/jekyllrb
   - title: github
     url: http://github.com/nellyngz95
+  - title: linkedin
+    url: https://www.linkedin.com/in/nellyvags0906/
 
 # Postal address (add as many lines as necessary)
 address:
   - line: London, UK.
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 
 
 # Build settings
 markdown: kramdown
