@@ -2,15 +2,13 @@
 layout: default
 modal-id: 3
 date: 2025-01-30
-src: Portfolio.png
+src: portfolio.png
 alt: Portfolio preview image
 project-date: 2025
 client: Personal Portfolio
 category: Portfolio
 description: |
-  Welcome to my creative space! I'm passionate about storytelling through sound, design, and emotion.  
-  Whether I'm building immersive soundscapes or enhancing a project's impact through thoughtful effects,  
-  I bring both artistry and technical precision to everything I do.  
+    
   
   Curious to hear more?  
   <a href="https://www.youtube.com/@nellyngz" target="_blank">Check out my work on YouTube</a>  
