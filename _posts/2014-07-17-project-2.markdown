@@ -2,23 +2,17 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: Workshops.png
+src: Workshops.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Workshops and Talks
-description: >
-  In this section, you'll find the different workshops and challenges I've helped organize:  
-
-  
-  - **AI Tools for Sound Design: Emotional Music and Sound Effects in Visual Media**  
-
-    [AES NY 2024](https://aesshow.com/skill-building-workshops)  
-
-  
-  - **Vocal Imitation Querying**  
-
-    [AES AIMLA 2025](https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/)  
+description: |
+  In this section, you'll find the different workshops and challenges I've helped organize:
+  <ul>
+    <li><strong>AI Tools for Sound Design: Emotional Music and Sound Effects in Visual Media</strong> — <a href="https://aesshow.com/skill-building-workshops" target="_blank">AES NY 2024</a></li>
+    <li><strong>Vocal Imitation Querying</strong> — <a href="https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/" target="_blank">AES AIMLA 2025</a></li>
+  </ul>
 
 ---
 
