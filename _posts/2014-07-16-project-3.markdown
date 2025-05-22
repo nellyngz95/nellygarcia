@@ -7,7 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Portfolio
-  description: 
+description: |
     Curious to her more?  
     <a href="https://www.youtube.com/@nellyngz" target="_blank">Check out my work on YouTube</a>  
     and let’s connect to create something unforgettable.
