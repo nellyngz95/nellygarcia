@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2014-07-17
 src: portfolio.png
-alt: image-alt
+alt: _posts/image-alt
 project-date: 2025
 client: Portfolio
 category: Portfolio

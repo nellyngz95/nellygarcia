@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-src: workshops.png
+src: _posts/workshops.png
 alt: image-alt
 project-date: 2025
 client: Workshops and Talks

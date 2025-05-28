@@ -2,7 +2,7 @@
 layout: default
 modal-id: 
 date: 2014-07-18
-img: papers.png
+img: _posts/papers.png
 alt: image-alt
 project-date: 2025
 client: Papers
