@@ -1,22 +1,16 @@
 ---
 layout: default
 modal-id: 3
-date: 2025-01-30
-src: portfolio.jpg
+date: 2014-07-17
+src: portfolio.png
 alt: image-alt
-project-date: 2025
-client: Personal Portfolio
+project-date: April 2014
+client: Start Bootstrap
 category: Portfolio
-description: >
-  Welcome to my portfolio! Sharing stories is one of my passions.  
-  Whether it’s crafting immersive soundscapes, designing memorable effects,  
-  or enhancing a project’s emotional depth, I combine creativity with  
-  technical expertise to deliver impactful results. I’m always excited to  
-  connect with like-minded creators.  
-
-  Feel free to explore&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@nellyngz" target="_blank">my projects</a>&nbsp;&nbsp;
-  and reach out— I’d love to discuss how we can create something amazing together!
+description: |
+    Curious to her more?  
+    <a href="https://www.youtube.com/@nellyngz" target="_blank">Check out my work on YouTube</a>  
+    and let’s connect to create something unforgettable.
 
 ---
 
