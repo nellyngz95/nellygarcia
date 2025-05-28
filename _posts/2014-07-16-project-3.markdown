@@ -8,9 +8,13 @@ project-date: April 2014
 client: Start Bootstrap
 category: Portfolio
 description: |
-    Curious to her more?  
+    Find my codes:
+    <a href="https://github.com/nellyngz95" target="_blank">Check out my work on  GitHub </a> 
+    Find my sound: 
     <a href="https://www.youtube.com/@nellyngz" target="_blank">Check out my work on YouTube</a>  
-    and let’s connect to create something unforgettable.
+    <a href="https://bsky.app/profile/nellyngz.bsky.social" target="_blank"> Follow me in Blusky</a>  
+    <a href="https://soundcloud.com/nelly-garcia-584155737" target="_blank"> Visit my recordings.</a> 
+    and let’s connect to create something.
 
 ---
 
