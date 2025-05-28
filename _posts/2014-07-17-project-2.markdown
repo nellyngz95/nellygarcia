@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
 src: workshops.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2025
+client: Workshops and Talks
 category: Workshops and Talks
 description: |
   In this section, you'll find the different workshops and challenges I've helped organize:

@@ -4,8 +4,8 @@ modal-id:
 date: 2014-07-18
 img: papers.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2025
+client: Papers
 category: Papers
 description: |
   In this section, you will find the different papers I've been working on:
